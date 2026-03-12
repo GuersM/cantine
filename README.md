@@ -39,7 +39,7 @@ This application was developed to help Algerian schools comply with the minister
 
 ## 🚀 **Live Demo | عرض مباشر**
 
-[Click here to try the app](https://yourusername.github.io/school-food-monitoring)
+[Click here to try the app](https://github.com/GuersM/Cantine/))
 
 ## 🛠️ **Built With | بني باستخدام**
 
