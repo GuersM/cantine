@@ -93,7 +93,7 @@ DeepSeek helped with:
 
 ## 📞 **Contact | للتواصل**
 
-- GitHub: [@yourusername](https://guersm.github.io/cantine/)
+- GitHub: [@GuersM]
 - Email: guerss@gmail.com
 
 ## 📜 **License | الترخيص**
