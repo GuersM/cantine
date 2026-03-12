@@ -93,7 +93,7 @@ DeepSeek helped with:
 
 ## 📞 **Contact | للتواصل**
 
-- GitHub: [@GuersM]
+- GitHub: [@GuersM](https://github.com/GuersM)
 - Email: guerss@gmail.com
 
 ## 📜 **License | الترخيص**
