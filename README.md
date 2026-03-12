@@ -39,7 +39,7 @@ This application was developed to help Algerian schools comply with the minister
 
 ## 🚀 **Live Demo | عرض مباشر**
 
-[Click here to try the app](https://github.com/GuersM/Cantine/))
+[Click here to try the app] (https://guersm.github.io/cantine/)
 
 ## 🛠️ **Built With | بني باستخدام**
 
